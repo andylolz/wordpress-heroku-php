@@ -1,9 +1,4 @@
-.DS_Store
-.env
-local-config.php
-debug.log
-
-public/wp/
-public/content/uploads
-public/content/upgrade
 /vendor/
+/public/
+!/public/wp-content/plugins/claim-review-schema-wordpress-plugin/
+!/public/wp-config.php

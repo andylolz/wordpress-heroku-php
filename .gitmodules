@@ -1,0 +1,3 @@
+[submodule "public/wp-content/plugins/claim-review-schema-wordpress-plugin"]
+	path = public/wp-content/plugins/claim-review-schema-wordpress-plugin
+	url = https://github.com/FullFact/claim-review-schema-wordpress-plugin.git
