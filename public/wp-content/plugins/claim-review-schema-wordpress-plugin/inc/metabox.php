@@ -88,6 +88,10 @@ function claim_review_build_claim_box( $x = 1, $data = false ) {
 	$claimnumericcurrent     = '';
 	$claimratingimagecurrent = '';
 
+    $claimreviewedcurrent    = '';
+    $claimoriginalcurrent    = '';
+    $claimasssessmentcurrent = '';
+
 	$max = get_option( 'cr-organisation-max-number-rating' );
 	$min = get_option( 'cr-organisation-min-number-rating' );
 
